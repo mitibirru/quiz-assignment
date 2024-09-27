@@ -1,2 +1,2 @@
-export const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
-export const BASE_URL = process.env.NEXT_PUBLIC_NETWORK_BASE_URL;
+export const API_KEY = 'MuJ2h8NpPlARXzmLgPB9KpjCM4ltNiI3Myngt4DH';
+export const BASE_URL = 'https://quizapi.io/api';
